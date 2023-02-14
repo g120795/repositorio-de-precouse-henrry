@@ -1,2 +1,2 @@
-german lescano 
-cree mi primer repositorio en la nube pero aun falta guardarlo y subirlo
+aqui german lescano 
+ya esta todo hecho
