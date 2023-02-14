@@ -1,2 +1,2 @@
-# repositorio-de-precouse-henrry
-este es el pre curso de henrry aprendiendo desarrollo full stack
+german lescano 
+cree mi primer repositorio en la nube pero aun falta guardarlo y subirlo
